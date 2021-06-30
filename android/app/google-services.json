@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251549165284",
+    "firebase_url": "https://cool-cab-b8194-default-rtdb.firebaseio.com",
+    "project_id": "cool-cab-b8194",
+    "storage_bucket": "cool-cab-b8194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251549165284:android:303fcf5a685f0ec3e8aef1",
+        "android_client_info": {
+          "package_name": "com.example.cool_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251549165284-q23cuq6fuqjp99lkptst5coik31cpmo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cool_cab",
+            "certificate_hash": "6b0f256bb7b93fc8d7655a1c6a55b65e8788a40a"
+          }
+        },
+        {
+          "client_id": "251549165284-4obv2e2mku6u9s69n6m9u5ce2uik0mt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGv6op5xuhCCIPqGcouFod6NNUZTVyAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251549165284-4obv2e2mku6u9s69n6m9u5ce2uik0mt4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251549165284-nf594h3vfr094og4k2b0hop7jbijr3oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coolcab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

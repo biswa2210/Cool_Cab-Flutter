@@ -48,13 +48,46 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 ```bash
 mocktail-recipe-finder
        ├── assets
-       |     ├── fonts
-
+       |     └── fonts
+       |           └── all fonts
+       |     └── icons
+       |           └── all features' icons
        |     └── images
-       |           ├── attachment.gif
-       |           └── loading.gif
+       |           └── all companies' logos
        └── lib 
-
+             ├── database
+             |     ├── Car.dart
+             |     ├── Company.dart
+             |     └── db.dart
+             ├── datamodels
+             |     └── address.dart
+             ├── dataprovider
+             |     └── appdata.dart
+             ├── screens
+             |     ├── AboutPg.dart
+             |     ├── CompanyCarlist.dart
+             |     ├── CompanyDetail.dart
+             |     ├── ComparisonSc.dart
+             |     ├── allCars.dart
+             |     ├── Car_details.dart
+             |     ├── ContactUs.dart
+             |     ├── favourites.dart
+             |     ├── googleSignIn.dart
+             |     ├── loginpg.dart
+             |     ├── myhomepg.dart
+             |     ├── profile.dart
+             |     ├── registration.dart
+             |     ├── resetPass.dart
+             |     ├── searchCompany.dart
+             |     └── searchpage.dart
+             ├── widgets
+             |     ├── BrandDevidder.dart
+             |     ├── DrawerItemStyle.dart
+             |     └── ProgressBar.dart
+             ├── MLP.dart
+             ├── globalApiKey.dart
+             ├── helpers.dart
+             └── main.dart         
  ```                      
 
 ## Making Notes Of Cool Cab App :point_down:

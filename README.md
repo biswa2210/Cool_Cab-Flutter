@@ -27,7 +27,8 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 ## Purpose Of Making This App :point_down:
 
 <div align="justified">
-       
+
+I have made this app for car-lovers and those who want to explore cars for any purpose. Here I have gathered many trending luxurious cars with all their features. Using this app will save time of searching cars in different websites. This is also very easy to use. Anyone can install the app and explore cars. This app is safe also for sign in or login systems. Anyone can have personalize his experience about cars. A person who wants to buy car he can see features and price of that car. So that it will be easier for him to buy. Here is a comparison table where user can compare upto 3 cars by their features. I have included search engine so that user can search his or her preferred car or company. In my app I have added cars of high, medium and low market prices. So that anyone can find cars according to their likings. User can add their cars to favourites so that user can see the cars later also. If user face any problem using the app he or she can read the about part. User can send feedback or contact through email. So, this app will help people to search cars and know about them very easily without wasting time. 
 
 </div>
 
@@ -37,12 +38,6 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
        
 
 </div>      
-       
-## Importance Of Cool Cab :point_down:
-
-<div align="justified">
-
-</div>
 
 ## Folder Structure :point_down:
 ```bash

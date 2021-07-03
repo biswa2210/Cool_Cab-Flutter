@@ -113,8 +113,34 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots Of Cool-Cab:point_down: 
 
 <div align="center">
-<a href="pics/m17.jpeg"><img src="pics/m17.jpeg" width="250" height= "450"></a> <a href="pics/m1.jpeg"><img src="pics/m1.jpeg" width="250" height= "450"></a> <a href="pics/m2.jpeg"><img src="pics/m2.jpeg" width="250" height= "450"></a>
-       
+ 
+<a href="pics/c1.jpeg"><img src="pics/c1.jpeg" width="250" height= "450"></a> <a href="pics/c2.jpeg"><img src="pics/c2.jpeg" width="250" height= "450"></a> <a href="pics/c3.jpeg"><img src="pics/c3.jpeg" width="250" height= "450"></a>
+ 
+<a href="pics/c4.jpeg"><img src="pics/c4.jpeg" width="250" height= "450"></a> <a href="pics/c5.jpeg"><img src="pics/c5.jpeg" width="250" height= "450"></a> <a href="pics/c6.jpeg"><img src="pics/c6.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c7.jpeg"><img src="pics/c7.jpeg" width="250" height= "450"></a> <a href="pics/c8.jpeg"><img src="pics/c8.jpeg" width="250" height= "450"></a> <a href="pics/c9.jpeg"><img src="pics/c9.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c10.jpeg"><img src="pics/c10.jpeg" width="250" height= "450"></a> <a href="pics/c11.jpeg"><img src="pics/c11.jpeg" width="250" height= "450"></a> <a href="pics/c12.jpeg"><img src="pics/c12.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c13.jpeg"><img src="pics/c13.jpeg" width="250" height= "450"></a> <a href="pics/c14.jpeg"><img src="pics/c14.jpeg" width="250" height= "450"></a> <a href="pics/c15.jpeg"><img src="pics/c15.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c16.jpeg"><img src="pics/c16.jpeg" width="250" height= "450"></a> <a href="pics/c17.jpeg"><img src="pics/c17.jpeg" width="250" height= "450"></a> <a href="pics/c18.jpeg"><img src="pics/c18.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c19.jpeg"><img src="pics/c19.jpeg" width="250" height= "450"></a> <a href="pics/c20.jpeg"><img src="pics/c20.jpeg" width="250" height= "450"></a> <a href="pics/c21.jpeg"><img src="pics/c21.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c22.jpeg"><img src="pics/c22.jpeg" width="250" height= "450"></a> <a href="pics/c23.jpeg"><img src="pics/c23.jpeg" width="250" height= "450"></a> <a href="pics/c24.jpeg"><img src="pics/c24.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c25.jpeg"><img src="pics/c25.jpeg" width="250" height= "450"></a> <a href="pics/c26.jpeg"><img src="pics/c26.jpeg" width="250" height= "450"></a> <a href="pics/c27.jpeg"><img src="pics/c27.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c28.jpeg"><img src="pics/c28.jpeg" width="250" height= "450"></a> <a href="pics/c29.jpeg"><img src="pics/c29.jpeg" width="250" height= "450"></a> <a href="pics/c30.jpeg"><img src="pics/c30.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c31.jpeg"><img src="pics/c31.jpeg" width="250" height= "450"></a> <a href="pics/c2.jpeg"><img src="pics/c32.jpeg" width="250" height= "450"></a> <a href="pics/c33.jpeg"><img src="pics/c33.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c34.jpeg"><img src="pics/c34.jpeg" width="250" height= "450"></a> <a href="pics/c35.jpeg"><img src="pics/c35.jpeg" width="250" height= "450"></a> <a href="pics/c36.jpeg"><img src="pics/c36.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c37.jpeg"><img src="pics/c37.jpeg" width="250" height= "450"></a> <a href="pics/c38.jpeg"><img src="pics/c38.jpeg" width="250" height= "450"></a> <a href="pics/c39.jpeg"><img src="pics/c39.jpeg" width="250" height= "450"></a>
+
+<a href="pics/c40.jpeg"><img src="pics/c40.jpeg" width="250" height= "450"></a> <a href="pics/c41.jpeg"><img src="pics/c41.jpeg" width="250" height= "450"></a> <a href="pics/c42.jpeg"><img src="pics/c42.jpeg" width="250" height= "450"></a>
 
 </div>
 

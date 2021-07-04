@@ -1,4 +1,9 @@
 import 'package:cool_cab/database/company.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import 'package:cool_cab/screens/AboutPg.dart';
 import 'package:cool_cab/screens/CompanyDetail.dart';
 import 'package:cool_cab/screens/ComparisonSc.dart';

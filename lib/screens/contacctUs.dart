@@ -1,5 +1,10 @@
 import 'package:delayed_display/delayed_display.dart';
 import 'package:flutter/material.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import 'package:flutter_email_sender/flutter_email_sender.dart';
 class HexColor extends Color {
   static int _getColorFromHex(String hexColor) {

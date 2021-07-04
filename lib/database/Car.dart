@@ -22,3 +22,4 @@ class Car{
   ,@required this.MaxTorque,@required this.MaxPower,@required this.BodyType,@required this.BootSpace,@required this.SeatingCapacity,
   @required this.MarketPrice,@required this.images});
 }
+

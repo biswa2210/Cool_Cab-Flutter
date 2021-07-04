@@ -1,4 +1,9 @@
 import 'package:flutter/material.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import 'package:brand_colors/brand_colors.dart';
 class ProgressBar extends StatelessWidget {
   final String status;

@@ -47,7 +47,7 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 ##  The cars and companies in this COOL-CAB APP :point_down:
 
  <details>                                                                            
-     <summary> 1.CLICK TO SEE LAMBORGHINI CARS</summary>        
+     <summary> 1.CLICK TO SEE [LAMBORGHINI](https://www.lamborghini.com/en-en) CARS</summary>        
   - URUS<br>
   - AVANTADOR SVJ<br>
   - AVANTADOR S ROADSTER<br>
@@ -64,7 +64,7 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
  </details>
  
  <details>
-     <summary> 2.CLICK TO SEE FERRARI CARS</summary>
+     <summary> 2.CLICK TO SEE [FERRARI](https://www.ferrari.com/en-IN) CARS</summary>
   - ROMA<BR>
   - PORTOFINO<BR>
   - SF90 STRADATE<BR>
@@ -416,7 +416,12 @@ mocktail-recipe-finder
 
 <div align="justified">
 
-**This flutter application is totally responsive.** When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. 
+I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/).
+I have used [FIREBASE](https://firebase.google.com/) for database and authentication as register, google sign up, login, logout and forget password system.
+I have downloaded images and kept them in firebase storage and used their links in db.dart. I have used only 100 mb space for keeping all images of 160 cars and 28 company logos.
+For details and informations of cars I have used [CARDEKHO](https://www.cardekho.com/), [CARWALE](https://www.cardekho.com/) and official sites of individual companies.
+I have created individual pages in dart files.
+
 </div>
 
 ## Getting Started with Flutter :point_down: 

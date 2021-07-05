@@ -14,14 +14,27 @@
 <a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## About Cool Cab App:point_down: 
+## About Cool Cab App :point_down: 
 
 <div align="justified">
  
-This cool cab android or iOS application is for car lovers. It's a platform to explore well known 160 cars of 28 established companies. Here user can sign in with google account and phone number. User can register using full name, email id and password. He has to do it just for the first time. After that user can logout. After that he chave to login using that email and password. If user forgets the password he can use forget password. After that he will be provided a link in email. There he can reset new password. After getting started by swiping right user can see his or her profile and the drawer of the app. There are some options like all cars, favourites, comparison, feedback, contact us, about and logout. In the home page there is a search engine to search cars and companies. In all cars option there are 160 cars thoroughly kept according to companies. Here user can see 6 different images of each car. There are engine details, mileage, company, max torque, max power, boot space, body type, seating capacity of that car. There are two buttons for adding that car to comparison table and favourites. User favourite cars will be enlisted in favourites portion.  User can add upto 3 cars for comparing features and market prices. User can also reset the comparison table. This app need location access so that it can be stored safely with feedback. In the contact us section user can give some reviews and ideas for the app through email. User can directly contact to me. In the about part user can read how to use the app if he faces any problem.This app is very user friendly, safe and a good place to explore cars.
+This cool cab android or iOS application is for car lovers. It's a platform to explore well known 160 cars of 28 established companies. Here user can sign in with google account and phone number. User can register using full name, email id and password. He has to do it just for the first time. After that user can logout. After that he chave to login using that email and password. If user forgets the password he can use forget password. After that he will be provided a link in email. There he can reset new password. After getting started by swiping right user can see his or her profile and the drawer of the app. There are some options like all cars, favourites, comparison, feedback, contact us, about and logout. In the home page there is a search engine to search cars and companies. In all cars option there are 160 cars thoroughly kept according to companies. Here user can see 6 different images of each car. There are engine details, mileage, company, max torque, max power, boot space, body type, seating capacity of that car. There are two buttons for adding that car to comparison table and favourites. User favourite cars will be enlisted in favourites portion.  User can add upto 3 cars for comparing features and market prices. User can also reset the comparison table. This app need location access so that it can be stored safely with feedback. In the contact us section user can give some reviews and ideas for the app through email. User can directly contact to me. In the about part user can read how to use the app if he faces any problem.This app is very user friendly, safe and a good place to explore cars. This app is fully tested by me and some other users, like my friends and family members. It is working perfectly.
 
 </div>
-       
+
+##  The cars and companies in this COOL-CAB APP :point_down:
+ 
+<summary> LAMBORGHINI 
+     <details>
+ - URUS
+ - AVANTADOR SVJ
+ - AVANTADOR S ROADSTER
+ - HURACAN EVO SPYDER
+ - HURACAN EVO RWD
+ - SIAN FKP 37
+ </details>
+ </summary>
+
 ## COOL-CAB APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view" download>Click here to download</a>
 
 ## Purpose Of Making This App :point_down:
@@ -35,7 +48,8 @@ I have made this app for car-lovers and those who want to explore cars for any p
 ## User Guide Of Cool Cab :point_down:
 
 <div align="justified">
-       
+
+User can read the about portion of the Cool Cab app if he faces any problem. This app is very easy and safe to use. User has to sign up or login. Then user can search cars or companies. In the drawer portion user can find all cars. User can use comparison table by ading cars. User can also clear table. User can send feedback. He can use contact us portion for direcly contacting to me through email.
 
 </div>      
 

@@ -23,9 +23,9 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 </div>
 
 ##  The cars and companies in this COOL-CAB APP :point_down:
- 
-<summary> LAMBORGHINI 
-     <details>
+
+ <details>
+     <summary> 1.LAMBORGHINI </summary>
  - URUS
  - AVANTADOR SVJ
  - AVANTADOR S ROADSTER
@@ -33,7 +33,7 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
  - HURACAN EVO RWD
  - SIAN FKP 37
  </details>
- </summary>
+ 
 
 ## COOL-CAB APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view" download>Click here to download</a>
 

@@ -2,6 +2,27 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
 
+<details>
+<summary> Click to read some points about Cool Cab :point_down: <summary>
+
+ - [x] firebase_auth:
+ - [x] firebase_database:
+ - [x] toast:
+ - [x] delayed_display:
+ - [x] connectivity:
+ - [x] google_sign_in:
+ - [x] brand_colors:
+ - [x] google_maps_flutter:
+ - [x] outline_material_icons:
+ - [x] carousel_pro:
+ - [x] firebase_storage:
+ - [x] image_picker:
+ - [x] cloud_firestore:
+ - [x] transparent_image:
+ - [x] geolocator:
+ - [x] geocoder:
+
+</details>
 ***This new Flutter application named 'COOL-CAB' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 

@@ -24,12 +24,12 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 
 ##  The cars and companies in this COOL-CAB APP :point_down:
 
- <details>
-     <summary> 1.LAMBORGHINI </summary>
+ <details>                                                                            
+     <summary> 1.CLICK TO SEE LAMBORGHINI CARS</summary>        
   - URUS<br>
   - AVANTADOR SVJ<br>
   - AVANTADOR S ROADSTER<br>
-  - HURACAN EVO SPYDER<br><br>
+  - HURACAN EVO SPYDER<br>
   - HURACAN EVO RWD<br>
   - SIAN FKP 37<br>
   - VENENO<br>
@@ -42,7 +42,7 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
  </details>
  
  <details>
-     <summary> 2.FERRARI </summary>
+     <summary> 2.CLICK TO SEE FERRARI CARS</summary>
   - ROMA<BR>
   - PORTOFINO<BR>
   - SF90 STRADATE<BR>
@@ -58,6 +58,326 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
  
  </details>
  
+  <details>
+     <summary> 3.CLICK TO SEE ROLLSROYCE CARS</summary>
+  - PHANTOM<br>
+  - GHOST<br>
+  - WRAITH<br>
+  - CULLINAN<br>
+  - DAWN BLACK BADGE<br>
+  - SWEPTAIL<br>
+
+ </details>
+ 
+ <details>
+     <summary> 4.CLICK TO SEE AUDI CARS</summary>
+  - A4<BR>
+  - A6<BR>
+  - A8<BR>
+  - R8<BR>
+  - Q8<BR>
+  - Q5<BR>
+  - RS7<BR>
+  - RSQ8<BR>
+ 
+ </details>
+
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+  <details>
+     <summary> 6.CLICK TO SEE TOYOTA CARS</summary>
+  - FORTUNER<BR>
+  - INNOVA CRYSTA<BR>
+  - VELLFIRE<BR>
+  - CAMRY<BR>
+  - URBAN CRUISER<BR>
+  - GLANZA<BR>
+  - YARIS<BR>
+  - VIOS<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 7.CLICK TO SEE JAGUAR CARS</summary>
+ - F TYPE<BR>
+ - XE<BR>
+ - XF<BR>
+ - F PACE<BR>
+ - E PACE<BR>
+ 
+ </details>
+ 
+  <details>
+     <summary> 8.CLICK TO SEE MCLAREN CARS</summary>
+ - F1<BR>
+ - P1<BR>
+ - 540C<BR>
+ - 675 LT SPIDER<BR>
+ - 570 S SPIDER<BR>
+ - 650 S SPIDER<BR>
+ - GT<BR>
+ - ARTURA<BR>
+ 
+ </details>
+ 
+  <details>
+     <summary> 9.CLICK TO SEE PORSCHE CARS</summary>
+  - CAYENNE<BR>
+  - 911<BR>
+  - MACAN<BR>
+  - 718<BR>
+  - PANAMERA<BR>
+  - CAYMAN S<BR>
+  - CARRERA GT<BR>
+  - BOXSTER<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 10.CLICK TO SEE MITSUBISHI CARS</summary>
+  - LANCER EVOLUTION X<BR>
+  - CHALLENGER<BR>
+  - MONTERO<BR>
+  - OUTLANDER<BR>
+  - PAJERO SPORT<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+ <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
+ 
+  <details>
+     <summary> 5.CLICK TO SEE BMW CARS</summary>
+  - X5<BR>
+  - X6<BR>
+  - X7<BR>
+  - X6M50D<BR>
+  - Z4<BR>
+  - 5 SERIES<BR>
+  - 6 SERIES<BR>
+  - 7 SERIES<BR>
+  - 8 SERIES<BR>
+  - M3<BR>
+  - M4<BR>
+  - 3 SERIES GRAN LIMOUSINE<BR>
+ 
+ </details>
 ## COOL-CAB APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view" download>Click here to download</a>
 
 ## Purpose Of Making This App :point_down:

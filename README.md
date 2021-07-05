@@ -47,7 +47,7 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 ##  The cars and companies in this COOL-CAB APP :point_down:
 
  <details>                                                                            
-     <summary> 1.CLICK TO SEE [LAMBORGHINI](https://www.lamborghini.com/en-en) CARS</summary>        
+     <summary> 1.CLICK TO SEE LAMBORGHINI CARS</summary>        
   - URUS<br>
   - AVANTADOR SVJ<br>
   - AVANTADOR S ROADSTER<br>
@@ -420,7 +420,7 @@ I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdM
 I have used [FIREBASE](https://firebase.google.com/) for database and authentication as register, google sign up, login, logout and forget password system.
 I have downloaded images and kept them in firebase storage and used their links in db.dart. I have used only 100 mb space for keeping all images of 160 cars and 28 company logos.
 For details and informations of cars I have used [CARDEKHO](https://www.cardekho.com/), [CARWALE](https://www.cardekho.com/) and official sites of individual companies.
-I have created individual pages in dart files.
+I have created individual pages in dart files. The companies are [LAMBORGHINI](https://www.lamborghini.com/en-en), [FERRARI](https://www.ferrari.com/en-IN), [ROLLS ROYCE](https://www.rolls-roycemotorcars.com/en_GB/home.html), [AUDI](https://www.audi.in/in/web/en.html), [BMW](https://www.bmw.com/en/index.html), [TOYOTA](https://www.toyotabharat.com/), [JAGUAR](https://www.jaguar.in/index.html), [MCLAREN](https://www.mclaren.com/), [POSCHE](https://www.porsche.com/), [MITSUBISHI](https://mitsubishi-motors.co.in/), [MERCEDES](https://www.mercedes-benz.com/en/), [BUGATI](https://www.bugatti.com/), [MASERATI](https://www.maserati.com/in/en), [LAND ROVER](https://www.landrover.in/index.html), [LEXUS](https://www.lexus.com/), [TATA](https://www.tatamotors.com/), [MAHINDRA](https://www.mahindra.com/), [MARUTI SUZUKI](https://www.marutisuzuki.com/), [HYUNDAI](https://www.hyundai.com/in/en),
 
 </div>
 

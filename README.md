@@ -26,15 +26,38 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 
  <details>
      <summary> 1.LAMBORGHINI </summary>
- - URUS
- - AVANTADOR SVJ
- - AVANTADOR S ROADSTER
- - HURACAN EVO SPYDER
- - HURACAN EVO RWD
- - SIAN FKP 37
+  - URUS<br>
+  - AVANTADOR SVJ<br>
+  - AVANTADOR S ROADSTER<br>
+  - HURACAN EVO SPYDER<br><br>
+  - HURACAN EVO RWD<br>
+  - SIAN FKP 37<br>
+  - VENENO<br>
+  - GALLARDO<br>
+  - CENTENARIO<br>
+  - MURCIELAGO<br>
+  - DIABLO<br>
+  - URRACO<br>
+ 
  </details>
  
-
+ <details>
+     <summary> 2.FERRARI </summary>
+  - ROMA<BR>
+  - PORTOFINO<BR>
+  - SF90 STRADATE<BR>
+  - F8 TRIBUTO<BR>
+  - GTC4 LUSSO<BR>
+  - 812<BR>
+  - CALIFORNIA T<BR>
+  - ENZO F12 TDF<BR>
+  - 612 SCAGLIETTI<BR>
+  - 250 GTO<BR>
+  - F12 BERLINETA<BR>
+  - 458 ITALIA<BR>
+ 
+ </details>
+ 
 ## COOL-CAB APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view" download>Click here to download</a>
 
 ## Purpose Of Making This App :point_down:

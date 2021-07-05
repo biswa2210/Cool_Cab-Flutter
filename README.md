@@ -23,6 +23,7 @@
  - [x] geocoder:
 
 </details>
+
 ***This new Flutter application named 'COOL-CAB' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 

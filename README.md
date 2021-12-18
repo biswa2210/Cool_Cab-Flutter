@@ -368,7 +368,7 @@ User can read the about portion of the Cool Cab app if he faces any problem. Thi
 
 ## Folder Structure :point_down:
 ```bash
-mocktail-recipe-finder
+Cool_Cab-Flutter
        ├── assets
        |     └── fonts
        |           └── all fonts

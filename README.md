@@ -44,7 +44,12 @@ This cool cab android or iOS application is for car lovers. It's a platform to e
 
 </div>
 
-##  The cars and companies in this COOL-CAB APP :point_down:
+
+## COOL CAB DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=mnJTCQ9VbmM&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=1&t=7s">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
+## The cars and companies in this COOL-CAB APP :point_down:
 
  <details>                                                                            
      <summary> 1.CLICK TO SEE LAMBORGHINI CARS</summary>        
